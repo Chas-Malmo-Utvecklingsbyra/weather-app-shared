@@ -63,7 +63,6 @@
 - [Emilio Ganibegovic](https://github.com/AlCapone1234) / [Emilios other account](https://github.com/samstalhandske/chas_malmo_weather/commits?author=pooppoop)
 - [Henrik Westerlund](https://github.com/Henrik-Westerlund)
 - [Isa Shipshani](https://github.com/isashiphotmailcom)
-- [Jonathan Alestam](https://github.com/JonathanAlestam)
 - [Lukas Städe](https://github.com/HoffaQt)
 - [Pontus Rosenquist](https://github.com/pontusrosenquistgmailcom)
 - [Pär Lundh](https://github.com/lundhpargmailcom)
